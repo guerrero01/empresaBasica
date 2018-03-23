@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Nosotros</title>
+  </head>
+  <body>
+    <nav> <a href="nuestrosServicios.html">Nuestros servicios</a><br>
+      <a href="../index.html">Indice</a><br>
+      <a href="https://github.com/guerrero01/disenoWeb">Ir a nuestro repositorio</a><br>
+      <a href="mailto:jesus.guerrero@ua.es?subject=Sugerencias">Escribeme tus
+        sugerencias</a><br>
+    </nav>
+    <p>Nombre del autor: <u><b>Jesús Guerrero</b></u> </p>
+    <p>Foto del autor: </p>
+    <img src="imagenes/miFoto.jpg">
+    <p>Nombre de empresa: <u><b>Soluciones Informaticas Company</b></u> </p>
+    <p>Actividad de la empresa: Dar solucion a todos los problemas informaticos
+      que un particular o empresa se encuentren en su día a día. </p>
+    <p>Logo empresa: </p>
+    <img src="imagenes/logo_empresa.jpg">
+  </body>
+</html>
